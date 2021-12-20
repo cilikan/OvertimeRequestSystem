@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OvertimeRequestSystem", "OvertimeRequestSystem\OvertimeRequestSystem.csproj", "{BC44CE90-A999-4EDB-821B-F0E7C7868351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC44CE90-A999-4EDB-821B-F0E7C7868351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC44CE90-A999-4EDB-821B-F0E7C7868351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC44CE90-A999-4EDB-821B-F0E7C7868351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC44CE90-A999-4EDB-821B-F0E7C7868351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8890E73-582E-48C8-85CA-4DADD60B3E35}
+	EndGlobalSection
+EndGlobal
