@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OvertimeRequestSystem", "OvertimeRequestSystem\OvertimeRequestSystem.csproj", "{BC44CE90-A999-4EDB-821B-F0E7C7868351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OvertimeRequestSystemClient", "OvertimeRequestSystemClient\OvertimeRequestSystemClient.csproj", "{F8E66616-0DE7-49ED-853B-CFA7046194C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OvertimeRequestSystemClient", "OvertimeRequestSystemClient\OvertimeRequestSystemClient.csproj", "{F8E66616-0DE7-49ED-853B-CFA7046194C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OvertimeRequestSystemAPI", "OvertimeRequestSystemAPI\OvertimeRequestSystemAPI.csproj", "{23953049-8452-41B0-8E9C-3A60F9AE0176}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F8E66616-0DE7-49ED-853B-CFA7046194C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8E66616-0DE7-49ED-853B-CFA7046194C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8E66616-0DE7-49ED-853B-CFA7046194C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23953049-8452-41B0-8E9C-3A60F9AE0176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23953049-8452-41B0-8E9C-3A60F9AE0176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23953049-8452-41B0-8E9C-3A60F9AE0176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23953049-8452-41B0-8E9C-3A60F9AE0176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
